@@ -1,16 +1,16 @@
-{ 10011 } - EXIF Cleanser: "Who's a clever dick now?" 
+* { 10011 } - EXIF Cleanser: "Who's a clever dick now?" 
 
     Thought it'd be neat to be able to strip EXIF data out of pictures at the command line 
 
     And snarky to replace a few select lines with "Who's a clever dick now?" for stalkers 
 
-usage: EXIF_Dick [-h] [-v] [-s SNARK] [--verbose] file 
+* usage: EXIF_Dick [-h] [-v] [-s SNARK] [--verbose] file 
 
-positional arguments: 
+** positional arguments: 
 
   file                  Filename(s) to process. 
 
-optional arguments: 
+** optional arguments: 
 
   -h, --help            show this help message and exit 
 
@@ -24,7 +24,7 @@ optional arguments:
 
  
 
-    Compiled using: 
+* Compiled using: 
         (Note the -F flag was needed!) 
         From the terminal within PyCharm 
         pyinstaller -F EXIF_Dick.py
