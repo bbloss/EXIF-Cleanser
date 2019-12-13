@@ -22,7 +22,7 @@ And snarky to replace a few select lines with "Who's a clever dick now?" for sta
 			
     --verbose             verbose progress output. 
 
-## Compiled using: 
-   (Note the -F flag was needed!) 
-   From the terminal within PyCharm 
-   pyinstaller -F EXIF_Dick.py
+## Compiled using:
+    (Note the -F flag was needed!)
+    From the terminal within PyCharm
+    pyinstaller -F EXIF_Dick.py
